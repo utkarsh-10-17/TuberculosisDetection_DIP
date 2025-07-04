@@ -1,0 +1,28 @@
+# requirements.txt
+
+# Core deep learning library
+tensorflow==2.15.0
+# or use PyTorch (uncomment if you prefer)
+# torch==2.3.0
+# torchvision==0.18.0
+
+# Data manipulation
+numpy==1.26.4
+pandas==2.2.2
+
+# Image preprocessing
+opencv-python==4.9.0.80
+Pillow==10.3.0
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Model evaluation and metrics
+scikit-learn==1.5.0
+
+# Interactive notebooks
+jupyter==1.0.0
+
+# Optional: if you use progress bars or experiment tracking
+tqdm==4.66.4
